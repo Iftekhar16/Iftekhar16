@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# Reach me at <br>
+[Email](mailto:iftekharhossain16@gmail.com)
+[LinkedIn](https://linkedin.com/in/iftekhar-hossain-b225082a1)
 
 <!--
 **Iftekhar16/Iftekhar16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
