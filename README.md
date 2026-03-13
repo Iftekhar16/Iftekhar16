@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iftekhar16&layout=compact&theme=dark&hide_border=true)
 
 # Reach me <br>
 [Email](mailto:iftekharhossain16@gmail.com)
