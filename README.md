@@ -8,4 +8,4 @@
 -->
 # Reach me <br>
 [Email](mailto:iftekharhossain16@gmail.com)
-[LinkedIn](https://linkedin.com/in/iftekhar-hossain-b225082a1)
+[LinkedIn](https://www.linkedin.com/in/iftekhar16)
